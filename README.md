@@ -37,4 +37,8 @@ Test and Run the API Gateways of Database Web Application
 
 ![15](https://user-images.githubusercontent.com/87887948/231456760-714fd493-5362-45b6-acd0-31c5728c3b27.jpg)
 
+![16](https://user-images.githubusercontent.com/87887948/231458071-8838e962-8ae9-4648-b09d-a1995127ce5b.jpg)
 
+
+All the AWS services we set up can securely communicate with each other. When a user chooses a button in the web app, it makes a call to our API, which triggers our Lambda function.
+Our Lambda function writes to a database and returns a message to our client via API Gateway. IAM manages all of the permissions.
