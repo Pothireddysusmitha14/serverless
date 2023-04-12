@@ -9,11 +9,11 @@ Review 2
 AWS Amplify, Amazon API Gateway, AWS Lambda
 
 Review 3
+
 Amazon DynamoDB and Host dynamic web application
 
 Review 4
 
-
 Test and Run the API Gateways of Database Web Application
 
-[2000030748 Project serverless.docx](https://github.com/Pothireddysusmitha14/serverless/files/11211222/2000030748.Project.serverless.docx)
+
