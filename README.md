@@ -16,4 +16,7 @@ Review 4
 
 Test and Run the API Gateways of Database Web Application
 
+[2000030748 Project serverless.docx](https://github.com/Pothireddysusmitha14/serverless/files/11211302/2000030748.Project.serverless.docx)
+
+
 
